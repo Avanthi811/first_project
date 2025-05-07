@@ -195,7 +195,7 @@ function greet($name) {
     return "Hello, $name!";
 }
 
-echo "<br>" . greet("Bob");
+echo "<br>" . greet("Avanthi");
 
 // Similar to:
 // def greet(name):
