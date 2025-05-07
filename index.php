@@ -24,7 +24,7 @@ Like this ---->
 echo "Hello, World!"; // Output to the browser (like print("Hello, World!") in Python)
 echo "Welcome to PHP class!";
 
-echo "My name is Debashis Nayak";
+echo "My name is Kanamarlapudi Avanthi";
 echo "I am a Software Engineer";
 
 
